@@ -1,0 +1,2 @@
+# gcw-population-gdp
+data visualizations crated from Appendix 1 (The World in 1960: The 25 Most Populous Countries) and Appendix 2 (The World Today: The 25 Most Populous Countries (plus South Korea) in 2018) figures from Vincent Bevin's The Jakarta Method -- meant to highlight shifts and preservations of wealth by country in considering the promises and arguments of the Cold War as a global phenomenom
